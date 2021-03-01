@@ -2,5 +2,5 @@
 /*
 #except the contract and test
 !.gitignore
-!contracts/FAsset.sol
-!test/FAsset.test.js
+!*/contracts/FAsset.sol
+!*/test/FAsset.test.js

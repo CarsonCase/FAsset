@@ -1,0 +1,6 @@
+#ignore everything
+/*
+#except the contract and test
+!.gitignore
+!contracts/FAsset.sol
+!test/FAsset.test.js
